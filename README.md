@@ -1,10 +1,3 @@
-ProjetGitEKHI
-
-Projet de Site Web Dynamique d'E-commerce
-
-Objectif du Projet
-Développer un site web d'e-commerce dynamique en utilisant les technologies HTML5, CSS3 et JavaScript. La gestion complète du code source se fait via Git/GitHub, avec l'intégration continue/déploiement continu (CI/CD) utilisant GitHub Actions.
-
 ## Technologies Utilisées
 - Frontend: HTML5, CSS3, JavaScript.
 - Outil de Contrôle de Version: Git/GitHub.
